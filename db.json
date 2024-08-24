@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "productName": "Tarvuzlar va qovunlar",
+      "productPrice": "1234",
+      "productType": "1",
+      "id": "8edb"
+    },
+    {
+      "productName": "Anorlar",
+      "productPrice": "22",
+      "productType": "1",
+      "id": "69df"
+    },
+    {
+      "productName": "Olma va qizil Olma",
+      "productPrice": "2",
+      "productType": "1",
+      "id": "b500"
+    },
+    {
+      "productName": "qovun",
+      "productPrice": "32435678",
+      "productType": "3",
+      "id": "620f"
+    }
+  ]
+}
